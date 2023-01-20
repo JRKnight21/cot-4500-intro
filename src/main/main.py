@@ -10,3 +10,4 @@ def matrix2():
 
 if __name__ == "__main__":
     matrix1()
+    matrix2()
