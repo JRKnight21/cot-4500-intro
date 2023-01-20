@@ -15,5 +15,8 @@ def matrix3():
 def matrix4():
     print('456')
 
+def matrix5():
+    print('789')
+
 if __name__ == "__main__":
     matrix1()
