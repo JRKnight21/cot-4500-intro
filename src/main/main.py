@@ -8,5 +8,8 @@ def matrix2():
     for row in matrix:
         print(row)
 
+def maxtrix3():
+    print('123')
+
 if __name__ == "__main__":
     matrix1()
