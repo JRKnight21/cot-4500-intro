@@ -9,7 +9,7 @@ def matrix2():
         print(row)
 
 def matrix3():
-    print('123')
+    print('345')
 
 if __name__ == "__main__":
     matrix1()
