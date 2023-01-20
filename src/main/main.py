@@ -8,6 +8,9 @@ def matrix2():
     for row in matrix:
         print(row)
 
+def matrix3():
+    print('123')
+
 def maxtrix3():
     print('123')
 
