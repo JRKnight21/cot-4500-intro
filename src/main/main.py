@@ -3,11 +3,16 @@ def matrix1():
     for row in matrix:
         print(row)
 
-def matrix2():
-    matrix = [[1 if i==j else 0 for j in range(3)] for i in range(3)]
-    for row in matrix:
-        print(row)
+#def matrix2():
+#   matrix_size = range(3)
+#    i_equals_j = i==j
+#
+#    matrix = [[1 if i == j else 0 for j in matrix_size] for i in matrix_size]
+#    for row in matrix:
+#        print(row)
+
 
 if __name__ == "__main__":
     matrix1()
-    matrix2()
+    #matrix2()
+    #matrix3()
