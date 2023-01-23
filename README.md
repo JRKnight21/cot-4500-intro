@@ -1,4 +1,4 @@
-Into to Pythin and GitHub
+Into to Python and GitHub
 
 the requirements.txt
 This file includes the required packages to run the file such as numpy
